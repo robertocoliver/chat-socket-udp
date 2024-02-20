@@ -1,2 +1,2 @@
 # chat-socket-udp
-Programa de chat em tempo real utilizando UDP e sockets em Python.
+Real-time chat program using UDP and sockets in Python.
